@@ -2,16 +2,12 @@
 
 Ini adalah Proyek Tim HTML & CSS DTS Batch II.
 
-                         Daftar Anggota Kelompok & Pembagian Tugas
-==================================================================================
-|No. |No. Registrasi|      Nama Lengkap     |Klm|            Catatan             |
-==================================================================================
-|2593|0447977100-16 |Okta Melisa            |H67|Bertugas membuat grup di discord|
-|2665|0447977171-2  |Putu Eka Krisna Yuda   |H67|                                |
-|2737|0447977021-16 |Randa Sahputra Saragih |H67|                                |
-|2809|0447977141-342|Rezal Angger Briyantara|H67|                                |
-|2881|0447977131-54 |Rinto H                |H67|                                |
-==================================================================================
+Daftar Anggota Kelompok & Pembagian Tugas:
+  2593 | 0447977100-16  | Okta Melisa             = Bertugas membuat grup di discord
+  2665 | 0447977171-2   | Putu Eka Krisna Yuda    =
+  2737 | 0447977021-16  | Randa Sahputra Saragih  =
+  2809 | 0447977141-342 | Rezal Angger Briyantara = Membuat Repository di github
+  2881 | 0447977131-54  | Rinto H                 =
 
 Tujuan: Membuat halaman web modern dan responsif!
   Deskripsi Tujuan: membuat halaman web bebas (contoh: profil perusahaan, halaman tur & travel,
